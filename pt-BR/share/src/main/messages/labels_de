@@ -1,0 +1,16 @@
+acosix.siteHierarchy.siteDialog.extensions.title=Site-Hierarchie
+
+acosix.siteHierarchy.siteDialog.extensions.parentSite.label=Übergeordnete Site
+acosix.siteHierarchy.siteDialog.extensions.showInHierarchyMode.label=Anzeige in Site-Hierarchie
+acosix.siteHierarchy.siteDialog.extensions.showInHierarchyMode.help=Wann soll diese Site in einer Site-Hierarchie dargestellt werden?
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.label=Modus Mitgliederverknüpfung
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.help=Wie sollen die Mitglieder dieser bzw. der übergeordneten Site verknüpft werden?
+
+acosix.siteHierarchy.siteDialog.extensions.showInHierarchyMode.ifParentOrChild.label=Sofern als Kind- oder übergeordnete Site festgelegt
+acosix.siteHierarchy.siteDialog.extensions.showInHierarchyMode.never.label=Niemals
+acosix.siteHierarchy.siteDialog.extensions.showInHierarchyMode.always.label=Immer
+
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.none.label=Keine Verknüpfung
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.systemDefault.label=Systemvorgabe
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.parentMembersAsChildConsumers.label=Übergeordnete Sitemitglieder als Konsumenten
+acosix.siteHierarchy.siteDialog.extensions.autoMembershipMode.childMembersAsParentConsumers.label=Sitemitglieder als Konsumenten in übergeordnete Site
