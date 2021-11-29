@@ -1,0 +1,25 @@
+aco6sh_model.description=Domänmodell für Sitehierarchien
+
+aco6sh_model.aspect.aco6sh_hierarchySite.title=Hierarchiesite
+aco6sh_model.aspect.aco6sh_hierarchySite.description=Site innerhalb einer Sitehierarchie
+aco6sh_model.property.aco6sh_showInHierarchyMode.title=In Hierarchie anzeigen
+
+aco6sh_model.aspect.aco6sh_topLevelSite.title=Basissite
+aco6sh_model.aspect.aco6sh_topLevelSite.description=Site an der Basis einer Sitehierarchie
+
+aco6sh_model.aspect.aco6sh_childSite.title=Kindsite
+aco6sh_model.property.aco6sh_autoMembershipMode.title=Modus Mitgliederverknüpfung
+aco6sh_model.property.aco6sh_autoMembershipMode.description=Modus der automatischen Verknüpfung der Mitglieder dieser und der übergeordneten Site
+
+aco6sh_model.aspect.aco6sh_parentSite.title=Übergeordnete Site
+aco6sh_model.association.aco6sh_childSite.title=Kindsite
+aco6sh_model.association.aco6sh_childSite.description=Site der nächsten Hierarchiestufe
+
+listconstraint.aco6sh_autoMembershipModes.none=Keine
+listconstraint.aco6sh_autoMembershipModes.systemDefault=Systemvorgabe
+listconstraint.aco6sh_autoMembershipModes.parentMembersAsChildConsumers=übergeordnete Sitemitglieder als Konsumenten
+listconstraint.aco6sh_autoMembershipModes.childMembersAsParentConsumers=Mitglieder als Konsumenten in übergeordnete Site
+
+listconstraint.aco6sh_showInHierarchyModes.ifParentOrChild=Sofern als Kind- oder übergeordnete Site festgelegt
+listconstraint.aco6sh_showInHierarchyModes.never=Niemals
+listconstraint.aco6sh_showInHierarchyModes.always=Immer
